@@ -13,9 +13,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 ### Adding a task list
-- [ ] First task
-- [ ] second task
-- [ ] third task
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 ### Adding image
