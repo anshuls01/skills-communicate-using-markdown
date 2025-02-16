@@ -2,3 +2,9 @@
 ## this is `<h2>` header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+```javascript
+var abc = 1;
+var xyz = 2;
+```
